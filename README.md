@@ -54,7 +54,7 @@
 
 ## 🏗️ Architecture
 
-<img src="https://lh3.googleusercontent.com/d/1uPMXau3eDCw5JdEavclFnDd4-qZ4G83P" Width="840" alt="architecture" />
+<img src="https://lh3.googleusercontent.com/d/1uPMXau3eDCw5JdEavclFnDd4-qZ4G83P?v=2" Width="840" alt="architecture" />
 
 ---
 ## 📷 결과 화면 예시
