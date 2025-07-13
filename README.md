@@ -64,41 +64,41 @@
   <tr>
     <td align="center" valign="top">
       <b>🔐 Naver 소셜로그인</b><br/>
-      <img src="https://lh3.googleusercontent.com/d/1HC3OShwdyFreZeqLXQbtmx_wo5zeiS47" Width="215" />
+      <img src="https://lh3.googleusercontent.com/d/1HC3OShwdyFreZeqLXQbtmx_wo5zeiS47" Width="420" />
     </td>
     <td align="center" valign="top">
       <b>💬 초기 화면</b><br/>
-      <img src="https://lh3.googleusercontent.com/d/1YkulZnvAcJqYUBhePDhAqfMkEv_ZPUiJ" width="215"/>
+      <img src="https://lh3.googleusercontent.com/d/1YkulZnvAcJqYUBhePDhAqfMkEv_ZPUiJ" width="420"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <b>⌨️ 여행 정보 질문 Typing 입력</b><br/>
-      <img src="https://lh3.googleusercontent.com/d/1nEUXHaUnCgyQEmZA-cOt-_m53HIW1hgv" width="215"/>
+      <b>⌨️  여행 정보 질문 Typing 입력</b><br/>
+      <img src="https://lh3.googleusercontent.com/d/1nEUXHaUnCgyQEmZA-cOt-_m53HIW1hgv" width="420"/>
     </td>
     <td align="center" valign="top">
       <b>🗺️ 여행 정보 응답 Text & Embedding</b><br/>
-      <img src="https://lh3.googleusercontent.com/d/19JA_9IFnfrjoF-qErilry8nJ6cvJNFzt" width="215"/>
+      <img src="https://lh3.googleusercontent.com/d/19JA_9IFnfrjoF-qErilry8nJ6cvJNFzt" width="420"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <b>📸 멀티모달 - 이미지</b><br/>
-      <img src="https://lh3.googleusercontent.com/d/14rLaoPRS6Uz4HbdYoxLuLNi--YnrV1WD" width="215"/>
+      <img src="https://lh3.googleusercontent.com/d/14rLaoPRS6Uz4HbdYoxLuLNi--YnrV1WD" width="420"/>
     </td>
      <td align="center" valign="top">
       <b>🎙️ 멀티모달 - STT</b><br/>  
-      <img src="https://lh3.googleusercontent.com/d/1zKz9nPX5Te4QbHx2K7jhy5e8vGnllWT3" width="215"/>
+      <img src="https://lh3.googleusercontent.com/d/1zKz9nPX5Te4QbHx2K7jhy5e8vGnllWT3" width="420"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <b>📚 대화 목록 관리</b><br/>
-      <img src="https://lh3.googleusercontent.com/d/1_Ng97II31xuz0wYZskNOfvXDLCYEdjLy" width="215"/>
+      <img src="https://lh3.googleusercontent.com/d/1_Ng97II31xuz0wYZskNOfvXDLCYEdjLy" width="420"/>
     </td>
      <td align="center" valign="top">
       <b>👤 마이페이지</b><br/>  
-      <img src="https://lh3.googleusercontent.com/d/1zM8Xw7QU4xNJpFH8yHJLfRLMtIGY9wzJ" width="215"/>
+      <img src="https://lh3.googleusercontent.com/d/1zM8Xw7QU4xNJpFH8yHJLfRLMtIGY9wzJ" width="420"/>
     </td>
   </tr>
 </table>
